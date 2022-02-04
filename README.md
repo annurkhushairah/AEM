@@ -22,4 +22,4 @@ You need to clone this repository and you may use whatever resources you like as
 
 ## Your task
 
-WIP
+Prepare a slide presentation to explain how do you understand on the QA role in software development, and how they can assist in improving the software testing, writing test case and test plan, understand on QA Testing Life Cycle, and ultimately to be one of the important roles in the organization. 
