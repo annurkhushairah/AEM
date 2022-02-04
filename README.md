@@ -2,9 +2,11 @@
 
 AEM Enersol is an independent integrated consultancy services, from upstream to downstream. Our impartiality allows us to provide a high quality advise to optimize clients' portfolio in a business. Our principle is grounded in an ultimate priority - achieving clients' needs at beyond the best limit.
 
-# QA Interview Test
+# QA Interview Test Overview
 
 The role of QA in agile can involve both testing and development. The idea is that developers and testers must actively engage to deliver the code and complete the project as per the client's brief. QA helps to proactively address issues and potential bugs within an application during the development cycles
+
+QA helps to proactively address issues and potential bugs within an application during the development cycles. It can also help address functionality, performance, or security issues. This will not only ensure stability of the application, but also bring down the testing efforts once the application lands in the hands of the users. In this way developers are able to move ahead without dealing relentlessly with pending issues or rework.
 
 ## Guideline
 
